@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chronometer</string>
+
+    <string name="title">Chronometer In Android</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="set_format">Set Format</string>
+    <string name="clear_format">Clear Format</string>
+</resources>
